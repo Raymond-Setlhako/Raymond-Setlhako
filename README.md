@@ -1,4 +1,4 @@
-## Hi there,I'm Raymond Thabang Setlhako 👋, 
+## Hi there, I'm Raymond Thabang Setlhako 👋, 
 
 I'm an IT (Software Engineer) student at Eduvos (3rd year), based in Centurion. Currently building my skills in Java, PHP, React, full stack development etc, to create projects during my mid-year break from July to December 2026 😊
 
